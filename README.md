@@ -1,4 +1,4 @@
-# UnlockADUsers_2inf (initial demo text)
+# UnlockADUsers_2inf
 Powershell compiled executable gui for  unlocking massive locked AD Users.
 
 - Windows executable tool for unlocking any locked AD users.  
